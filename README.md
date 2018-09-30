@@ -1,6 +1,6 @@
 # csv2dict
 
-read csv and make dictionary
+read csv and make dictionary<br>
 usage :
 1. ret = CSV2Dict.do('unit.csv','unit_id')  # unique key csv
 2. unit_level = CSV2Dict.do_multi_key('upgrade.csv',('unit_id','level')) # multi key csv , key must tuple. 
